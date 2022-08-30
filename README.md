@@ -5,7 +5,7 @@
 </div>
 
 ### I am a 42 student
-[![My progress at school](https://badge42.vercel.app/api/v2/cl7ev6q2r00060gjknfh0jxpi/stats?cursusId=21&coalitionId=150)](https://github.com/JaeSeoKim/badge42)
+[![My progress at school](https://badge42.vercel.app/api/v2/cl7ev6q2r00060gjknfh0jxpi/stats?cursusId=21&coalitionId=150)](https://42wolfsburg.de/)
 
 Status | Project | Rank | Grade
 ------ | ------- | ---- | -----
